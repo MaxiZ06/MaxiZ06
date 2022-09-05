@@ -26,9 +26,6 @@
 
 
 
-
-
-
 Hola
 Cómo
 Están me llamo maximiliano pero me dicen maxi
@@ -39,7 +36,7 @@ Adiós
 Nos vemos
 Bye
 Que les vaya bien no mentira yo quiero
-Hacer uba cuenta de Minecraft pero
+Hacer una cuenta de Minecraft pero
 No puedo hacerla 
 No se por que 
 - 👋 Hi, I’m @MaxiZ06
@@ -47,6 +44,8 @@ No se por que
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+Y asta luego
+
 
 <!---
 MaxiZ06/MaxiZ06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
